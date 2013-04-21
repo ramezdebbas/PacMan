@@ -35,7 +35,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>788b48ce-beaf-4ad9-ab45-80fa658d9844</ProjectGuid>
+    <ProjectGuid>5f8b6f44-465e-4bba-8803-fbfea3fffcf7</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
@@ -44,7 +44,7 @@
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetPlatformVersion>8.0</TargetPlatformVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <PackageCertificateThumbprint>BFA60B3971771D29B99BCA6C7F69B9C0292F8C1E</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>698144797E758BA596FF7218EAD21781A5386FE0</PackageCertificateThumbprint>
     <PackageCertificateKeyFile>Pacman_TemporaryKey.pfx</PackageCertificateKeyFile>
   </PropertyGroup>
   <ItemGroup>
@@ -78,6 +78,10 @@
     <Content Include="images\textwin-sheet0.png" />
     <Content Include="images\textlose-sheet0.png" />
     <Content Include="images\sprite-sheet0.png" />
+    <Content Include="images\l-sheet0.png" />
+    <Content Include="images\r2-sheet0.png" />
+    <Content Include="images\r3-sheet0.png" />
+    <Content Include="images\r4-sheet0.png" />
     <Content Include="app-logo.png" />
     <Content Include="app-smalllogo.png" />
     <Content Include="app-storelogo.png" />
